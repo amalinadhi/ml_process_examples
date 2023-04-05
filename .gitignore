@@ -1,2 +1,4 @@
-venv_ml_process/
-hello_world.py
+*.ipynb_checkpoints
+*__pycache__
+/venv_ml_process/
+/data/preprocessed/
