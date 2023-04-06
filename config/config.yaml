@@ -91,10 +91,10 @@ label_categories_new:
 # Replacement for missing value related
 missing_value_pm10:
   BAIK: 28
-  TIDAK BAIK: 82
+  TIDAK BAIK: 54
 missing_value_pm25:
-  BAIK: 38
-  TIDAK BAIK: 82
+  BAIK: 39
+  TIDAK BAIK: 81
 missing_value_so2: 35
 missing_value_co: 11
 missing_value_o3: 29
